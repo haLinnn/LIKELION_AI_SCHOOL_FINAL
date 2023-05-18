@@ -2,7 +2,7 @@
 
 - Member: 멋쟁이사자처럼 AI SCHOOL 8기 2조 금사빠
 - Status: Complete
-- Period: 23.04.24 ~ 23.05.10
+- Period: 23.04.24 ~ 23.05.09
 
 ## 1. 프로젝트 개요
 
